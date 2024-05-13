@@ -3,33 +3,35 @@
 Firmware_fftl
 
 
-
-fmotc_FFTL_V0.206.0.bin:
+fmotc_FFTL_V0.214.0.bin:
 RUS:
-Добавлено в версии. 
-Аннотации к версиям прошивки. 
-Страница обновлений. 
-ВНИМАНИЕ, УСТАРЕВШАЯ ВЕРСИЯ.  
-ENG:
-Added in version. 
-Firmware version annotations. 
-Update page. 
-ATTENTION, OUTDATED VERSION. 
-ESP:
-Añadido en la versión. 
-Anotaciones de versión de firmware. 
-Página de actualización. 
-ATENCIÓN, VERSIÓN DESACTUALIZADA.  /
+Добавлено в версии:
 
-fmotc_FFTL_V0.208.0.bin:
-RUS:
-Добавлено в версии . 
-Консоль разработчика. 
+Логирование температуры, моточасов, максимальных оборотов.
+Активация ключа через блокчейн.
+Оффлайн активация ключа.
+Консоль разработчика.
+Ссылка на старицу инструкции.
+Страница загрузки обвновлений.
+
 ENG:
-Added in version. 
-Developer console. 
+Added in this version:
+
+Temperature, engine hours, and maximum RPM logging.
+Key activation via blockchain.
+Offline key activation.
+Developer console.
+Link to the instruction page.
+Update download page.
+
 ESP:
-Añadido en la versión. 
-Consola de desarrollador.  /
+Añadido en esta versión:
+
+Registro de temperatura, horas de motor y RPM máximas.
+Activación de clave a través de blockchain.
+Activación de clave sin conexión.
+Consola de desarrollador.
+Enlace a la página de instrucciones.
+Página de descarga de actualizaciones./
 
 
