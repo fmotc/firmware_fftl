@@ -32,7 +32,9 @@ Activación de clave a través de blockchain.
 Activación de clave sin conexión.
 Consola de desarrollador.
 Enlace a la página de instrucciones.
-Página de descarga de actualizaciones./
+Página de descarga de actualizaciones. /
+
+
 
 fmotc_FFTL_V0.215.0.bin:
 Russian (Русский):
