@@ -3,7 +3,7 @@
 Firmware_fftl
 
 
-
+fmotc_FFTL_V0.215.0.bin
 RUS:
 Добавлено в версии:
 
@@ -37,6 +37,7 @@ Página de descarga de actualizaciones. /
 
 
 fmotc_FFTL_V0.215.0.bin:
+
 Russian (Русский):
 Добавлено в версии:
 обновленный интерфейс
