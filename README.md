@@ -14,7 +14,7 @@ RUS:
 
 
 
-fmotc_FFTL_V216.0.bin
+fmotc_FFTL_V215.0.bin
 
 Russian (Русский):
 Добавлено в версии:
