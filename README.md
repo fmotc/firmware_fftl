@@ -36,7 +36,7 @@ Página de descarga de actualizaciones. /
 
 
 
-fmotc_FFTL_V0.216.0.bin:
+fmotc_FFTL_V216.0.bin
 
 Russian (Русский):
 Добавлено в версии:
