@@ -23,6 +23,12 @@ RUS:Добавлен дебагер. Исправлена работа с дат
 ENG:Added debugger. Fixed work with the hall sensor. VTM corresponds to the metal output from the sensor.
 ESP:Depurador agregado. Trabajo fijo con el sensor hall. VTM corresponde a la salida de metal del sensor. /
 
+fmotc_FFTL_V0.219.0.bin 
+RUS:Изменены уровни датчика холла
+ENG:Changed hall sensor levels.
+ESP:Niveles de sensor de pasillo cambiados /
+
+
 
 
 
