@@ -1,12 +1,5 @@
 
 
-fmotc_FFTL_V0.215.0.bin
-RUS: Добавлено в версии:
-обновленный интерфейс
-ENG: Added in version:
-updated interface
-ESP: Anadido en la version:
-interfaz actualizada /
 
 fmotc_FFTL_V0.216.0.bin
 RUS:Увеличен объем буфера парсера. Пофикшена проблема перехода шорт-лонг таймера.
