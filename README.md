@@ -1,6 +1,7 @@
 
 
-
+fmotc_FFTL_V0.216.0.bin
+RUS:тестовая/
 
 fmotc_FFTL_V0.217.0.bin 
 RUS:Добавлен сброс карт до заводских настроек. Добавлено новый блокчейн для активации.
@@ -17,8 +18,7 @@ RUS:Изменены уровни датчика холла
 ENG:Changed hall sensor levels.
 ESP:Niveles de sensor de pasillo cambiados /
 
-fmotc_FFTL_V0.220.0.bin
-RUS:тестовая/
+
 
 
 
