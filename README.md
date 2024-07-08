@@ -1,10 +1,6 @@
 
 
 
-fmotc_FFTL_V0.216.0.bin
-RUS:Увеличен объем буфера парсера. Пофикшена проблема перехода шорт-лонг таймера.
-ENG:The parser buffer size has been increased. The issue with the short-long timer transition has been fixed.
-ESP:Se ha aumentado el tamaño del búfer del analizador. Se ha solucionado el problema con la transición del temporizador corto-largo./
 
 fmotc_FFTL_V0.217.0.bin 
 RUS:Добавлен сброс карт до заводских настроек. Добавлено новый блокчейн для активации.
@@ -20,6 +16,10 @@ fmotc_FFTL_V0.219.0.bin
 RUS:Изменены уровни датчика холла
 ENG:Changed hall sensor levels.
 ESP:Niveles de sensor de pasillo cambiados /
+
+fmotc_FFTL_V0.220.0.bin
+RUS:тестовая/
+
 
 
 
