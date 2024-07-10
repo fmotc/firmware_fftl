@@ -1,22 +1,14 @@
 
-
-fmotc_FFTL_V0.216.0.bin
-RUS:тестовая/
-
-fmotc_FFTL_V0.217.0.bin 
-RUS:Добавлен сброс карт до заводских настроек. Добавлено новый блокчейн для активации.
-ENG:Added card reset to factory settings. Added a new conditioner for activation.
-ESP:Se agregó el restablecimiento de la tarjeta a la configuración de fábrica. Se agregó un nuevo acondicionador para la activación. /
-
-fmotc_FFTL_V0.218.0.bin 
-RUS:Добавлен дебагер. Исправлена работа с датчиком холла. ВТМ соответствует выходу металла из датчика.
-ENG:Added debugger. Fixed work with the hall sensor. VTM corresponds to the metal output from the sensor.
-ESP:Depurador agregado. Trabajo fijo con el sensor hall. VTM corresponde a la salida de metal del sensor. /
-
 fmotc_FFTL_V0.219.0.bin 
 RUS:Изменены уровни датчика холла
 ENG:Changed hall sensor levels.
 ESP:Niveles de sensor de pasillo cambiados /
+
+fmotc_FFTL_V0.220.0.bin 
+RUS:Добавлены параметры в дебагер. ВТМ соответствует выходу металла из датчика. Фикс бага с пропуском искры при переходе на 1800RPM. Изменени дефолтный график. Фикс пропуска первых трех импульсов.
+ENG:Added parameters to the debugger. The VTM corresponds to the metal exiting the sensor. Fixed a bug with missing spark when switching to 1800RPM. Change the default schedule. Fixed missing the first three pulses.
+ESP:Se agregaron parámetros al depurador. El VTM corresponde al metal que sale del sensor. Se corrigió un error por el que faltaba chispa al cambiar a 1800 RPM. Cambie el horario predeterminado. Se corrigió la falta de los primeros tres pulsos. /
+
 
 
 
