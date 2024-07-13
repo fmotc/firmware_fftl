@@ -9,6 +9,9 @@ RUS:Добавлены параметры в дебагер. ВТМ соотве
 ENG:Added parameters to the debugger. The VTM corresponds to the metal exiting the sensor. Fixed a bug with missing spark when switching to 1800RPM. Change the default schedule. Fixed missing the first three pulses.Added function for testing the output path.
 ESP:Se agregaron parámetros al depurador. El VTM corresponde al metal que sale del sensor. Se corrigió un error por el que faltaba chispa al cambiar a 1800 RPM. Cambie el horario predeterminado. Se corrigió la falta de los primeros tres pulsos.Función agregada para probar la ruta de salida. /
 
+fmotc_FFTL_V0.221.0.bin 
+RUS:Фикс остановки двигателя при залипании прерывания /
+
 
 
 
